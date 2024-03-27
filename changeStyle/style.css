@@ -1,0 +1,23 @@
+* {
+  font-family: sans-serif;
+}
+h1,
+h2,
+h3 {
+  color: darkblue;
+}
+
+.download-button {
+  background-color: green;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 5px;
+  border: none;
+}
+
+.paid {
+  background-color: blue;
+}
+.button {
+  background-color: aqua;
+}
