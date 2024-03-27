@@ -1,0 +1,12 @@
+.container {
+  background-color: rebeccapurple;
+  color: aqua;
+  width: 250px;
+  height: 300px;
+}
+h1,
+h2,
+h3 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

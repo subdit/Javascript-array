@@ -1,0 +1,20 @@
+* {
+  font-family: sans-serif;
+}
+
+header {
+  text-align: center;
+  color: rgb(21, 21, 35);
+  font-weight: 800;
+}
+
+.members {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 10px;
+}
+
+.member,
+img {
+  max-width: 100%;
+}
